@@ -1,4 +1,5 @@
 # Awesome free GPTs in OpenAI's GPT Store
+![Awesome free GPTs in OpenAI's GPT Store](assets/awfree-gpts.jpg)
 
 Welcome to our curated list of awesome free GPTs available in OpenAI's GPT Store. We have tested each GPT to ensure its quality and usefulness. You can trust that no trashy or unverified GPTs are included here. Our goal is to provide you with reliable and valuable tools to enhance your productivity and learning experience.
 
