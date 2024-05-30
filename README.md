@@ -36,12 +36,12 @@ This is an overview of the most popular and useful GPTs in the OpenAI ChatGPT St
 | Name                        | Usage For                  | Creator                  | Link                                                                     |
 |-----------------------------|----------------------------|--------------------------|--------------------------------------------------------------------------|
 | Code Restorator             | Code Refactoring           | aicodecraft.io              | [Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator)     |
-| Github-Profile & Repository Helper | GitHub Profile Management | aicodecraft.io          | [Github-Profile & Repository Helper](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager) |
 | Code-Copilot                | Coding Assistance          | promptspellsmith.com     | [Code-Copilot](https://chatgpt.com/g/g-2DQzU5UZl-code-copilot)           |
 | Codey                       | Writing and Debugging Code | Codey Team               | [Codey](https://chatgpt.com/g/g-example-codey)                           |
 | Grimoire                    | Prompt-gramming and Web Development | Grimoire Devs      | [Grimoire](https://chatgpt.com/g/g-example-grimoire)                     |
 | AI Website Builder          | Web Design and Development | B12                      | [AI Website Builder](https://chatgpt.com/g/g-example-ai-website-builder) |
 | HTML Writer                 | HTML Code Generation       | HTML Master              | [HTML Writer](https://chatgpt.com/g/g-example-html-writer)               |
+| Github-Profile & Repository Helper | GitHub Profile Management | aicodecraft.io          | [Github-Profile & Repository Helper](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager) |
 | Thumbnail Sketcher          | Thumbnail Image Creation   | Sketch Team              | [Thumbnail Sketcher](https://chatgpt.com/g/g-example-thumbnail-sketcher) |
 | Tech Support Advisor        | Troubleshooting Tech Issues | Tech Support Team      | [Tech Support Advisor](https://chatgpt.com/g/g-example-tech-support)     |
 | Paper Interpreter           | Research Paper Analysis    | Research AI              | [Paper Interpreter](https://chatgpt.com/g/g-example-paper-interpreter)   |
