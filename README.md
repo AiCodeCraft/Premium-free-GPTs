@@ -24,16 +24,28 @@ This is an overview of the most popular and useful GPTs in the OpenAI ChatGPT St
 | Evidence Examiner      | Examination of Digital Evidence  | DigitalDetectives   | [Evidence Examiner](https://chatgpt.com/g/g-example-evidence-examiner)      |
 
 ## Mathematics GPTs
-| Name     | Usage For           | Creator       | Link                                                       |
-|----------|---------------------|---------------|------------------------------------------------------------|
-| Wolfram  | Computation and Math| Wolfram Alpha | [Wolfram](https://chatgpt.com/g/g-example-wolfram)          |
+| Name                 | Usage For                    | Creator        | Link                                                      |
+|----------------------|------------------------------|----------------|-----------------------------------------------------------|
+| Wolfram              | Computation and Math         | Wolfram Alpha  | [Wolfram](https://chatgpt.com/g/g-example-wolfram)        |
+| Math Solver          | Solving Math Problems        | MathGPT Inc.   | [Math Solver](https://chatgpt.com/g/g-example-math-solver)|
+| Geometry Guru        | Geometry Problem Solving     | GeoExperts     | [Geometry Guru](https://chatgpt.com/g/g-example-geometry-guru) |
+| Algebra Assistant    | Algebra Problem Assistance   | AlgebraMaster  | [Algebra Assistant](https://chatgpt.com/g/g-example-algebra-assistant) |
+
 
 ## Programming GPTs
-| Name                           | Usage For                  | Creator        | Link                                                                   |
-|--------------------------------|----------------------------|----------------|------------------------------------------------------------------------|
-| Code Restorator                | Code Refactoring           | VolkanSah      | [Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator)   |
-| Github-Profile & Repository Helper | GitHub Profile Management | VolkanSah      | [Github-Profile & Repository Helper](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager) |
-| Code-Copilot                   | Coding Assistance          | promptspellsmith.com | [Code-Copilot](https://chatgpt.com/g/g-2DQzU5UZl-code-copilot)         |
+| Name                        | Usage For                  | Creator                  | Link                                                                     |
+|-----------------------------|----------------------------|--------------------------|--------------------------------------------------------------------------|
+| Code Restorator             | Code Refactoring           | VolkanSah                | [Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator)     |
+| Github-Profile & Repository Helper | GitHub Profile Management | VolkanSah            | [Github-Profile & Repository Helper](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager) |
+| Code-Copilot                | Coding Assistance          | promptspellsmith.com     | [Code-Copilot](https://chatgpt.com/g/g-2DQzU5UZl-code-copilot)           |
+| Codey                       | Writing and Debugging Code | Codey Team               | [Codey](https://chatgpt.com/g/g-example-codey)                           |
+| Grimoire                    | Prompt-gramming and Web Development | Grimoire Devs      | [Grimoire](https://chatgpt.com/g/g-example-grimoire)                     |
+| AI Website Builder          | Web Design and Development | B12                      | [AI Website Builder](https://chatgpt.com/g/g-example-ai-website-builder) |
+| HTML Writer                 | HTML Code Generation       | HTML Master              | [HTML Writer](https://chatgpt.com/g/g-example-html-writer)               |
+| Thumbnail Sketcher          | Thumbnail Image Creation   | Sketch Team              | [Thumbnail Sketcher](https://chatgpt.com/g/g-example-thumbnail-sketcher) |
+| Tech Support Advisor        | Troubleshooting Tech Issues | Tech Support Team      | [Tech Support Advisor](https://chatgpt.com/g/g-example-tech-support)     |
+| Paper Interpreter           | Research Paper Analysis    | Research AI              | [Paper Interpreter](https://chatgpt.com/g/g-example-paper-interpreter)   |
+
 
 ## SEO GPTs
 | Name            | Usage For             | Creator       | Link                                                       |
