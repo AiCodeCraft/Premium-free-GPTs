@@ -94,10 +94,9 @@ This is an overview of the most popular and useful GPTs in the OpenAI ChatGPT St
 
 
 ## How to Use
-To use these GPTs, visit the OpenAI ChatGPT Store and search for the GPT by name or category. Follow the instructions provided to interact with the GPT for your specific needs.
+To use these GPTs, visit the OpenAI ChatGPT Store and search for the GPT by name or category or use the link in our list. Follow the instructions provided to interact with the GPT for your specific needs.
 
 ## Contributing
 If you have suggestions for new GPTs to be added to this list, please submit a pull request or open an issue on this repository.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
