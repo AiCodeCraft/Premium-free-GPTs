@@ -16,42 +16,41 @@
 This is an overview of the most popular and useful GPTs in the OpenAI ChatGPT Store. This list will be regularly updated to feature the latest and greatest GPTs.
 
 ## Forensic GPTs
-| Name | Usage For | Link | Creator |
-|------|------------|------|---------|
-| [Consensus](https://chatgpt.com/g/g-example-consensus) | Academic Research | [Consensus](https://chatgpt.com/g/g-example-consensus) | consensus.app |
-| [Forensic Investigator](https://chatgpt.com/g/g-example-forensic-investigator) | Digital Forensics | [Forensic Investigator](https://chatgpt.com/g/g-example-forensic-investigator) | ForensicAI |
-| [Cyber Crime Analyst](https://chatgpt.com/g/g-example-cyber-crime-analyst) | Cybersecurity and Crime Analysis | [Cyber Crime Analyst](https://chatgpt.com/g/g-example-cyber-crime-analyst) | CyberSafe |
-| [Evidence Examiner](https://chatgpt.com/g/g-example-evidence-examiner) | Examination of Digital Evidence | [Evidence Examiner](https://chatgpt.com/g/g-example-evidence-examiner) | DigitalDetectives |
-
+| Name                   | Usage For                        | Creator             | Link                                                                        |
+|------------------------|----------------------------------|---------------------|-----------------------------------------------------------------------------|
+| Consensus              | Academic Research                | consensus.app       | [Consensus](https://chatgpt.com/g/g-example-consensus)                      |
+| Forensic Investigator  | Digital Forensics                | ForensicAI          | [Forensic Investigator](https://chatgpt.com/g/g-example-forensic-investigator) |
+| Cyber Crime Analyst    | Cybersecurity and Crime Analysis | CyberSafe           | [Cyber Crime Analyst](https://chatgpt.com/g/g-example-cyber-crime-analyst)  |
+| Evidence Examiner      | Examination of Digital Evidence  | DigitalDetectives   | [Evidence Examiner](https://chatgpt.com/g/g-example-evidence-examiner)      |
 
 ## Mathematics GPTs
-| Name | Usage For | Link | Creator |
-|------|------------|------|---------|
-| [Wolfram](https://chatgpt.com/g/g-example-wolfram) | Computation and Math | [Wolfram](https://chatgpt.com/g/g-example-wolfram) | Wolfram Alpha |
+| Name     | Usage For           | Creator       | Link                                                       |
+|----------|---------------------|---------------|------------------------------------------------------------|
+| Wolfram  | Computation and Math| Wolfram Alpha | [Wolfram](https://chatgpt.com/g/g-example-wolfram)          |
 
 ## Programming GPTs
-| Name | Usage For | Link | Creator |
-|------|------------|------|---------|
-| [Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator) | Code Refactoring | [Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator) | VolkanSah |
-| [Github-Profile & Repository Helper](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager) | GitHub Profile Management | [Github-Profile & Repository Helper](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager) | VolkanSah |
-| [Code-Copilot](https://chatgpt.com/g/g-2DQzU5UZl-code-copilot) | Coding Assistance | [Code-Copilot](https://chatgpt.com/g/g-2DQzU5UZl-code-copilot) | promptspellsmith.com |
+| Name                           | Usage For                  | Creator        | Link                                                                   |
+|--------------------------------|----------------------------|----------------|------------------------------------------------------------------------|
+| Code Restorator                | Code Refactoring           | VolkanSah      | [Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator)   |
+| Github-Profile & Repository Helper | GitHub Profile Management | VolkanSah      | [Github-Profile & Repository Helper](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager) |
+| Code-Copilot                   | Coding Assistance          | promptspellsmith.com | [Code-Copilot](https://chatgpt.com/g/g-2DQzU5UZl-code-copilot)         |
 
 ## SEO GPTs
-| Name | Usage For | Link | Creator |
-|------|------------|------|---------|
-| [Automated Writer](https://chatgpt.com/g/g-example-automated-writer) | SEO Content Creation | [Automated Writer](https://chatgpt.com/g/g-example-automated-writer) | OctaneAI |
-| [SEO by Elevate](https://chatgpt.com/g/g-example-seo-elevate) | SEO Analysis | [SEO by Elevate](https://chatgpt.com/g/g-example-seo-elevate) | Elevate |
+| Name            | Usage For             | Creator       | Link                                                       |
+|-----------------|-----------------------|---------------|------------------------------------------------------------|
+| Automated Writer| SEO Content Creation  | OctaneAI      | [Automated Writer](https://chatgpt.com/g/g-example-automated-writer)  |
+| SEO by Elevate  | SEO Analysis          | Elevate       | [SEO by Elevate](https://chatgpt.com/g/g-example-seo-elevate)         |
 
 ## PDF Management GPTs
-| Name | Usage For | Link | Creator |
-|------|------------|------|---------|
-| [Ai PDF](https://chatgpt.com/g/g-example-ai-pdf) | PDF Management and Summarization | [Ai PDF](https://chatgpt.com/g/g-example-ai-pdf) | myaidrive.com |
+| Name    | Usage For                     | Creator        | Link                                                       |
+|---------|-------------------------------|----------------|------------------------------------------------------------|
+| Ai PDF  | PDF Management and Summarization | myaidrive.com | [Ai PDF](https://chatgpt.com/g/g-example-ai-pdf)            |
 
 ## Educational GPTs
-| Name | Usage For | Link | Creator |
-|------|------------|------|---------|
-| [Tutor Me](https://chatgpt.com/g/g-example-tutor-me) | Educational Tutoring | [Tutor Me](https://chatgpt.com/g/g-example-tutor-me) | Khan Academy |
-| [Code Tutor](https://chatgpt.com/g/g-example-code-tutor) | Coding Challenges | [Code Tutor](https://chatgpt.com/g/g-example-code-tutor) | Khan Academy |
+| Name     | Usage For             | Creator       | Link                                                       |
+|----------|-----------------------|---------------|------------------------------------------------------------|
+| Tutor Me | Educational Tutoring  | Khan Academy  | [Tutor Me](https://chatgpt.com/g/g-example-tutor-me)        |
+| Code Tutor | Coding Challenges   | Khan Academy  | [Code Tutor](https://chatgpt.com/g/g-example-code-tutor)    |
 
 ## How to Use
 To use these GPTs, visit the OpenAI ChatGPT Store and search for the GPT by name or category. Follow the instructions provided to interact with the GPT for your specific needs.
