@@ -47,11 +47,23 @@ This is an overview of the most popular and useful GPTs in the OpenAI ChatGPT St
 | Paper Interpreter           | Research Paper Analysis    | Research AI              | [Paper Interpreter](https://chatgpt.com/g/g-example-paper-interpreter)   |
 
 
-## SEO GPTs
-| Name            | Usage For             | Creator       | Link                                                       |
-|-----------------|-----------------------|---------------|------------------------------------------------------------|
-| Automated Writer| SEO Content Creation  | OctaneAI      | [Automated Writer](https://chatgpt.com/g/g-example-automated-writer)  |
-| SEO by Elevate  | SEO Analysis          | Elevate       | [SEO by Elevate](https://chatgpt.com/g/g-example-seo-elevate)         |
+## SEO and Social Network Marketing GPTs
+| Name                                | Usage For                    | Creator                    | Link                                                                     |
+|-------------------------------------|------------------------------|----------------------------|--------------------------------------------------------------------------|
+| Automated Writer                    | SEO Content Creation         | OctaneAI                   | [Automated Writer](https://chatgpt.com/g/g-example-automated-writer)     |
+| SEO by Elevate                      | SEO Analysis                 | Elevate                    | [SEO by Elevate](https://chatgpt.com/g/g-example-seo-elevate)            |
+| SEObot                              | Autonomous SEO Optimization  | SEObot Team                | [SEObot](https://chatgpt.com/g/g-example-seobot)                         |
+| Thread Weaver                       | Twitter Thread Creation      | SocialMedia Pros           | [Thread Weaver](https://chatgpt.com/g/g-example-thread-weaver)           |
+| Search Intent Optimization Tool     | Blog Post Intent Alignment   | Natzir Turrado Ruiz        | [Search Intent Optimization Tool](https://chatgpt.com/g/g-example-search-intent) |
+| SEO Mentor                          | SEO Strategy Guidance        | Natzir Turrado Ruiz        | [SEO Mentor](https://chatgpt.com/g/g-example-seo-mentor)                 |
+| SocialMedia GPT                     | Social Media Content Creation| SocialMedia Experts        | [SocialMedia GPT](https://chatgpt.com/g/g-example-socialmedia-gpt)       |
+| Outrank Article                     | Competitive SEO Analysis     | aiseo.ai                   | [Outrank Article](https://chatgpt.com/g/g-example-outrank-article)       |
+| FAQ Schema Markup Generator         | Schema Markup for FAQs       | Brian Wylie                | [FAQ Schema Markup Generator](https://chatgpt.com/g/g-example-faq-schema)|
+| WebPilot                            | Web Search and Data Scraping | WebPilot Devs              | [WebPilot](https://chatgpt.com/g/g-example-webpilot)                     |
+| SEO Blog Content Outline Creator    | SEO Blog Structuring         | Julian Goldie              | [SEO Blog Content Outline Creator](https://chatgpt.com/g/g-example-blog-outline) |
+| SEO Crafter                         | SEO-rich Product Details     | Ian Zvirbulis              | [SEO Crafter](https://chatgpt.com/g/g-example-seo-crafter)               |
+| TweetX Enhancer                     | Twitter Engagement Boosting  | Viacheslav Kovalevskyi     | [TweetX Enhancer](https://chatgpt.com/g/g-example-tweetx-enhancer)       |
+
 
 ## PDF Management GPTs
 | Name    | Usage For                     | Creator        | Link                                                       |
