@@ -1,5 +1,5 @@
-# GPTs Overview
-
+# Awesome free GPTs in OpenAI's GPT Store
+##### no trash testet GPTs
 ## Table of Contents
 - [Introduction](#introduction)
 - [Forensic GPTs](#forensic-gpts)
