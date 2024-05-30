@@ -1,5 +1,7 @@
 # Awesome free GPTs in OpenAI's GPT Store
-##### no trash testet GPTs
+
+Welcome to our curated list of awesome free GPTs available in OpenAI's GPT Store. We have tested each GPT to ensure its quality and usefulness. You can trust that no trashy or unverified GPTs are included here. Our goal is to provide you with reliable and valuable tools to enhance your productivity and learning experience.
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Forensic GPTs](#forensic-gpts)
