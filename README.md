@@ -19,6 +19,10 @@ This is an overview of the most popular and useful GPTs in the OpenAI ChatGPT St
 | Name | Usage For | Link | Creator |
 |------|------------|------|---------|
 | [Consensus](https://chatgpt.com/g/g-example-consensus) | Academic Research | [Consensus](https://chatgpt.com/g/g-example-consensus) | consensus.app |
+| [Forensic Investigator](https://chatgpt.com/g/g-example-forensic-investigator) | Digital Forensics | [Forensic Investigator](https://chatgpt.com/g/g-example-forensic-investigator) | ForensicAI |
+| [Cyber Crime Analyst](https://chatgpt.com/g/g-example-cyber-crime-analyst) | Cybersecurity and Crime Analysis | [Cyber Crime Analyst](https://chatgpt.com/g/g-example-cyber-crime-analyst) | CyberSafe |
+| [Evidence Examiner](https://chatgpt.com/g/g-example-evidence-examiner) | Examination of Digital Evidence | [Evidence Examiner](https://chatgpt.com/g/g-example-evidence-examiner) | DigitalDetectives |
+
 
 ## Mathematics GPTs
 | Name | Usage For | Link | Creator |
