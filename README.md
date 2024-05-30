@@ -35,8 +35,8 @@ This is an overview of the most popular and useful GPTs in the OpenAI ChatGPT St
 ## Programming GPTs
 | Name                        | Usage For                  | Creator                  | Link                                                                     |
 |-----------------------------|----------------------------|--------------------------|--------------------------------------------------------------------------|
-| Code Restorator             | Code Refactoring           | VolkanSah                | [Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator)     |
-| Github-Profile & Repository Helper | GitHub Profile Management | VolkanSah            | [Github-Profile & Repository Helper](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager) |
+| Code Restorator             | Code Refactoring           | aicodecraft.io              | [Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator)     |
+| Github-Profile & Repository Helper | GitHub Profile Management | aicodecraft.io          | [Github-Profile & Repository Helper](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager) |
 | Code-Copilot                | Coding Assistance          | promptspellsmith.com     | [Code-Copilot](https://chatgpt.com/g/g-2DQzU5UZl-code-copilot)           |
 | Codey                       | Writing and Debugging Code | Codey Team               | [Codey](https://chatgpt.com/g/g-example-codey)                           |
 | Grimoire                    | Prompt-gramming and Web Development | Grimoire Devs      | [Grimoire](https://chatgpt.com/g/g-example-grimoire)                     |
