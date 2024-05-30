@@ -64,17 +64,34 @@ This is an overview of the most popular and useful GPTs in the OpenAI ChatGPT St
 | SEO Crafter                         | SEO-rich Product Details     | Ian Zvirbulis              | [SEO Crafter](https://chatgpt.com/g/g-example-seo-crafter)               |
 | TweetX Enhancer                     | Twitter Engagement Boosting  | Viacheslav Kovalevskyi     | [TweetX Enhancer](https://chatgpt.com/g/g-example-tweetx-enhancer)       |
 
+## PDF, Excel, and Word Management GPTs
+| Name                    | Usage For                        | Creator               | Link                                                                     |
+|-------------------------|----------------------------------|-----------------------|--------------------------------------------------------------------------|
+| Ai PDF                  | PDF Management and Summarization | myaidrive.com         | [Ai PDF](https://chatgpt.com/g/g-example-ai-pdf)                         |
+| PDF Insights            | Analyzing and Extracting PDF Data| Insightful AI         | [PDF Insights](https://chatgpt.com/g/g-example-pdf-insights)             |
+| Excel Assistant         | Managing and Analyzing Excel Files| ExcelExpert          | [Excel Assistant](https://chatgpt.com/g/g-example-excel-assistant)       |
+| Word Wizard             | Formatting and Editing Word Docs | WordPro               | [Word Wizard](https://chatgpt.com/g/g-example-word-wizard)               |
+| Document Analyzer       | Comprehensive Document Analysis  | DocuAnalytica         | [Document Analyzer](https://chatgpt.com/g/g-example-document-analyzer)   |
+| File Converter GPT      | Converting Between File Formats  | ConvertEase           | [File Converter GPT](https://chatgpt.com/g/g-example-file-converter)     |
+| Spreadsheet Solver      | Solving Complex Spreadsheet Tasks| SheetGenius           | [Spreadsheet Solver](https://chatgpt.com/g/g-example-spreadsheet-solver) |
+| DocuHelper              | Assisting with Document Management| DocuHelper Team       | [DocuHelper](https://chatgpt.com/g/g-example-docuhelper)                 |
+| Text Extractor          | Extracting Text from Various Files| TextMiner             | [Text Extractor](https://chatgpt.com/g/g-example-text-extractor)         |
 
-## PDF Management GPTs
-| Name    | Usage For                     | Creator        | Link                                                       |
-|---------|-------------------------------|----------------|------------------------------------------------------------|
-| Ai PDF  | PDF Management and Summarization | myaidrive.com | [Ai PDF](https://chatgpt.com/g/g-example-ai-pdf)            |
 
 ## Educational GPTs
-| Name     | Usage For             | Creator       | Link                                                       |
-|----------|-----------------------|---------------|------------------------------------------------------------|
-| Tutor Me | Educational Tutoring  | Khan Academy  | [Tutor Me](https://chatgpt.com/g/g-example-tutor-me)        |
-| Code Tutor | Coding Challenges   | Khan Academy  | [Code Tutor](https://chatgpt.com/g/g-example-code-tutor)    |
+| Name                   | Usage For                          | Creator                   | Link                                                                     |
+|------------------------|------------------------------------|---------------------------|--------------------------------------------------------------------------|
+| Tutor Me               | Educational Tutoring               | Khan Academy              | [Tutor Me](https://chatgpt.com/g/g-example-tutor-me)                     |
+| Code Tutor             | Coding Challenges and Learning     | Khan Academy              | [Code Tutor](https://chatgpt.com/g/g-example-code-tutor)                 |
+| Books                  | Literature and Reading Guide       | BookLovers Inc.           | [Books](https://chatgpt.com/g/g-example-books)                           |
+| CK-12 Flexi            | Math and Science Tutoring          | CK-12 Foundation          | [CK-12 Flexi](https://chatgpt.com/g/g-example-ck12-flexi)                |
+| Video Summarizer AI    | Summarizing Educational Videos     | Klym Zhuravlov-Iuzefovych | [Video Summarizer AI](https://chatgpt.com/g/g-example-video-summarizer)  |
+| Learning Buddy         | General Study Assistance           | LearningBuddy Team        | [Learning Buddy](https://chatgpt.com/g/g-example-learning-buddy)         |
+| Finance Tutor          | Teaching Financial Literacy        | Finance Experts           | [Finance Tutor](https://chatgpt.com/g/g-example-finance-tutor)           |
+| Language Master        | Language Learning and Practice     | LinguaPro                 | [Language Master](https://chatgpt.com/g/g-example-language-master)       |
+| Science Explorer       | Exploring Scientific Concepts      | SciTech Institute         | [Science Explorer](https://chatgpt.com/g/g-example-science-explorer)     |
+| History Guide          | Learning About Historical Events   | HistoryBuffs              | [History Guide](https://chatgpt.com/g/g-example-history-guide)           |
+
 
 ## How to Use
 To use these GPTs, visit the OpenAI ChatGPT Store and search for the GPT by name or category. Follow the instructions provided to interact with the GPT for your specific needs.
