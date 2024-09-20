@@ -12,6 +12,7 @@ Welcome to our curated collection of high-quality GPTs, designed and developed b
   - [SEO and Social Network Marketing GPTs](#seo-and-social-network-marketing-gpts)
   - [PDF, Excel, and Word Management GPTs](#pdf-excel-and-word-management-gpts)
   - [Educational GPTs](#educational-gpts)
+  - [Other GPTs](#other-gpts)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
