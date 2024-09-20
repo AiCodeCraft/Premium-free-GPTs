@@ -1,59 +1,45 @@
-# Awesome free GPTs in OpenAI's GPT Store
-![Awesome free GPTs in OpenAI's GPT Store](assets/awfree-gpts.jpg)
 
-Welcome to our curated list of awesome free GPTs available in OpenAI's GPT Store. We have tested each GPT to ensure its quality and usefulness. You can trust that no trashy or unverified GPTs are included here. Our goal is to provide you with reliable and valuable tools to enhance your productivity and learning experience.
+# Premium GPTs Curated by AiCodeCraft
+
+![Premium GPTs Curated by AiCodeCraft](assets/awfree-gpts.jpg)
+
+Welcome to our curated collection of high-quality GPTs, designed and developed by AiCodeCraft or in collaboration with our trusted partners. We've streamlined our offerings to focus exclusively on our own creations or those made in close cooperation with us. This ensures the highest standards of performance, reliability, and innovation, guaranteeing that each GPT listed here meets our rigorous quality criteria.
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Forensic GPTs](#forensic-gpts)
-- [Mathematics GPTs](#mathematics-gpts)
-- [Programming GPTs](#programming-gpts)
-- [SEO GPTs](#seo-gpts)
-- [PDF Management GPTs](#pdf-management-gpts)
-- [Educational GPTs](#educational-gpts)
+- [Our GPTs](#our-gpts)
+  - [Programming GPTs](#programming-gpts)
+  - [SEO and Social Network Marketing GPTs](#seo-and-social-network-marketing-gpts)
+  - [PDF, Excel, and Word Management GPTs](#pdf-excel-and-word-management-gpts)
+  - [Educational GPTs](#educational-gpts)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
-This is an overview of the most popular and useful GPTs in the OpenAI ChatGPT Store. This list will be regularly updated to feature the latest and greatest GPTs.
+We are committed to providing only the best GPTs. Each one has been thoroughly tested to ensure it meets our high standards for quality and utility. Our focus is on delivering tools that truly add value to your projects, without the clutter of unverified or low-quality alternatives.
 
+## Our GPTs
 
-## Forensic GPTs
-| Name | Usage For | Creator | Link |
-|------|-----------|---------|------|
+### Programming GPTs
+- **[PHP Coder](https://chatgpt.com/g/g-E7q3eNCoK-php-coder)** - Expert PHP programmer focused on building core PHP projects without frameworks.
+- **[Git Repo Manager](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager)** - Manages Git repositories with precision, includes expert mode for advanced debugging.
+- **[Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator)** - Restore websites and their functions with our specialized GPT.
 
-## Mathematics GPTs
-| Name | Usage For | Creator | Link |
-|------|-----------|---------|------|
+### SEO and Social Network Marketing GPTs
+- **[SEO Optimizer](#)** - Advanced SEO analysis and optimization for your content. *(Coming Soon)*
 
-## Programming GPTs
-| Name | Usage For | Creator | Link |
+### PDF, Excel, and Word Management GPTs
+- **[Document Master](#)** - Manage and analyze your documents effortlessly. *(Coming Soon)*
 
-| [PHP Coder](https://chatgpt.com/g/g-E7q3eNCoK-php-coder) | Expert PHP programmer focused on building core PHP projects without frameworks. | AiCodeCraft | [PHP Coder](https://chatgpt.com/g/g-E7q3eNCoK-php-coder) |
-| [Git Repo Manager](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager) | Manages Git repositories with precision, includes expert mode for advanced debugging. | AiCodeCraft | [Git Repo Manager](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager) |
-| [Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator) | GPT Code Restorator - Restore Websites and their functions. | AiCodeCraft | [Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator) |
-
-
-## SEO and Social Network Marketing GPTs
-| Name | Usage For | Creator | Link |
-|------|-----------|---------|------|
-
-## PDF, Excel, and Word Management GPTs
-| Name | Usage For | Creator | Link |
-|------|-----------|---------|------|
-
-## Educational GPTs
-| Name | Usage For | Creator | Link |
-|------|-----------|---------|------|
-
-
-
+### Educational GPTs
+- **[Learning Assistant](#)** - Enhance your learning experience with our AI-powered tutor. *(Coming Soon)*
 
 ## How to Use
-To use these GPTs, visit the OpenAI ChatGPT Store and search for the GPT by name or category or use the link in our list. Follow the instructions provided to interact with the GPT for your specific needs.
+To use these GPTs, visit the OpenAI ChatGPT Store and search for the GPT by name or use the provided links. Follow the instructions given on the GPT page to interact with it for your specific needs.
 
 ## Contributing
-If you have suggestions for new GPTs to be added to this list, please submit a pull request or open an issue on this repository.
+We welcome contributions and feedback! If you have suggestions for improvements or new GPTs that align with our quality standards, feel free to open an issue or submit a pull request.
 
-
+## License
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
