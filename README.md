@@ -23,7 +23,6 @@ We are committed to providing only the best GPTs. Each one has been thoroughly t
 
 ### Programming GPTs
 - **[PHP Coder](https://chatgpt.com/g/g-E7q3eNCoK-php-coder)** - Expert PHP programmer focused on building core PHP projects without frameworks.
-- **[Git Repo Manager](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager)** - Manages Git repositories with precision, includes expert mode for advanced debugging.
 - **[Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator)** - Restore websites and their functions with our specialized GPT.
 
 ### SEO and Social Network Marketing GPTs
@@ -34,6 +33,9 @@ We are committed to providing only the best GPTs. Each one has been thoroughly t
 
 ### Educational GPTs
 - **[Learning Assistant](#)** - Enhance your learning experience with our AI-powered tutor. *(Coming Soon)*
+
+### Other GPTs
+- **[Git Repo Manager](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager)** - Manages Git repositories with precision, includes expert mode for advanced debugging.
 
 ## How to Use
 To use these GPTs, visit the OpenAI ChatGPT Store and search for the GPT by name or use the provided links. Follow the instructions given on the GPT page to interact with it for your specific needs.
