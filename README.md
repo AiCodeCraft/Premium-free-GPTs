@@ -44,5 +44,5 @@ To use these GPTs, visit the OpenAI ChatGPT Store and search for the GPT by name
 ## Contributing
 We welcome contributions and feedback! If you have suggestions for improvements or new GPTs that align with our quality standards, feel free to open an issue or submit a pull request.
 
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+### Credits
+**AiCodeCraft.io** - [S. Volkan Kücükbudak](https://github.com/volkansah)
