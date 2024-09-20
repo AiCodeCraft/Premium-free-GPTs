@@ -25,6 +25,7 @@ We are committed to providing only the best GPTs. Each one has been thoroughly t
 ### Programming GPTs
 - **[PHP Coder](https://chatgpt.com/g/g-E7q3eNCoK-php-coder)** - Expert PHP programmer focused on building core PHP projects without frameworks.
 - **[Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator)** - Restore websites and their functions with our specialized GPT.
+- **[Static Website Creator](https://chatgpt.com/g/g-nNELUSGbc-static-website-creator)** - Generates and tracks HTML, CSS, and JS files for static websites.
 
 ### SEO and Social Network Marketing GPTs
 - **[SEO Optimizer](#)** - Advanced SEO analysis and optimization for your content. *(Coming Soon)*
