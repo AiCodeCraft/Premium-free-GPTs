@@ -38,6 +38,9 @@ We are committed to providing only the best GPTs. Each one has been thoroughly t
 
 ### Other GPTs
 - **[Git Repo Manager](https://chatgpt.com/g/g-HBNMrjPNU-git-repo-manager)** - Manages Git repositories with precision, includes expert mode for advanced debugging.
+- **[Retro Pixel Designer](https://chatgpt.com/g/g-256MNIdhq-retro-pixel-designer)** - Creates retro-style game elements in pixel art based on user prompts.
+
+
 
 ## How to Use
 To use these GPTs, visit the OpenAI ChatGPT Store and search for the GPT by name or use the provided links. Follow the instructions given on the GPT page to interact with it for your specific needs.
