@@ -34,6 +34,7 @@ We are committed to providing only the best GPTs. Each one has been thoroughly t
 
 ### PDF, Excel, and Word Management GPTs
 - **[Document Master](#)** - Manage and analyze your documents effortlessly. *(Coming Soon)*
+- **[AutorSimu](https://chatgpt.com/g/g-677c59b12ec08191b529a8689c951077-autorsimu)** - Rewrites articles authentically for websites with SEO and user engagement focus.
 
 ### Educational GPTs
 - **[Learning Assistant](#)** - Enhance your learning experience with our AI-powered tutor. *(Coming Soon)*
