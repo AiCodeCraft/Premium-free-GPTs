@@ -24,7 +24,7 @@ We are committed to providing only the best GPTs. Each one has been thoroughly t
 ## Our GPTs
 
 ### Programming GPTs
-- **[PHP Coder](https://chatgpt.com/g/g-E7q3eNCoK-php-coder)** - Expert PHP programmer focused on building core PHP projects without frameworks.
+- **[Full Stack Web Developer](https://chatgpt.com/g/g-E7q3eNCoK-php-coder)** - Expert in full-stack web development and GitHub analysis.
 - **[Code Restorator](https://chatgpt.com/g/g-yTY9336jX-code-restorator)** - Restore websites and their functions with our specialized GPT.
 - **[Static Website Creator](https://chatgpt.com/g/g-nNELUSGbc-static-website-creator)** - Generates and tracks HTML, CSS, and JS files for static websites.
 - **[PythonMaster](https://chatgpt.com/g/g-677c4b4d56a48191830bf5775553a565-pythonmaster)** - An expert in Python development and Deep Learning. 
