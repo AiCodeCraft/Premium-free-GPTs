@@ -1,5 +1,5 @@
 
-# Premium GPTs 
+# Premium FREE GPTs 
 ###### Curated by AiCodeCraft
 
 ![Premium GPTs Curated by AiCodeCraft](assets/awfree-gpts.jpg)
